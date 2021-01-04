@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f9dd17c-6b88-4f4c-855d-8249de3c66bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="28f33ae6-fb4e-4cf4-a81a-d0c627614d77" />
+  <component name="ProjectId" id="1XveQA89MmWmP52nYo5vT93LbMk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tests_to_debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1_python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning/tests_to_debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests_to_debug" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f9dd17c-6b88-4f4c-855d-8249de3c66bd" name="Default Changelist" comment="" />
+      <created>1581930977266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581930977266</updated>
+      <workItem from="1581977170831" duration="70292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582182813408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582182813408" />
+    <state x="508" y="211" key="FileChooserDialogImpl" timestamp="1581977354721">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="211" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1581977354721" />
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom" timestamp="1582184327070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582184327070" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center" timestamp="1582184327068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582184327068" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left" timestamp="1582184327066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582184327066" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right" timestamp="1582184327069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582184327069" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom" timestamp="1582184327075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582184327075" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center" timestamp="1582184327073">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582184327073" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left" timestamp="1582184327071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582184327071" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right" timestamp="1582184327074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582184327074" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1581977373885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581977373885" />
+    <state x="413" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581977175624">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="413" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1581977175624" />
+    <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1581931015480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplearning/classifiers/convnet.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment1_python3$tests_to_debug.coverage" NAME="tests_to_debug Coverage Results" MODIFIED="1582183303741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
+  </component>
+</project>
